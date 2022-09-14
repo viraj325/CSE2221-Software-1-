@@ -8,7 +8,7 @@ import components.naturalnumber.NaturalNumber;
 /**
  * View class.
  *
- * @author Viraj Patel */
+ * @author */
 public final class NNCalcView1 extends JFrame implements NNCalcView {
 
     /**
