@@ -7,9 +7,6 @@ import components.xmltree.XMLTree1;
 
 /**
  * Program to evaluate XMLTree expressions of {@code int}.
- * 
- * @author Viraj Patel
- * 
  */
 public final class XMLTreeIntExpressionEvaluator {
 
